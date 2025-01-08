@@ -15,7 +15,7 @@ import com.android.fetchandroidloganp.ui.theme.FetchRewardsTakeHomeTestTheme
 
 class MainActivity : ComponentActivity() {
     /**
-     * I would really prefer to use Dagger Hilt DI here, but when I was trying to set it up it seemed
+     * I would really prefer to use Hilt DI here, but when I was trying to set it up it seemed
      * to struggle with the newest Kotlin version. Normally I would resolve the gradle issues but I
      * wanted to complete this take home in a timely manner. I haven't done Android professionally
      * for 2 years so my gradle build error resolution skills are a little rusty :)
